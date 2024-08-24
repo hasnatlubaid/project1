@@ -1,4 +1,4 @@
 # project1
 This is my first Git repository.
 <br>
-author - Hasnat lubaid
+author - Hasnat bin lubaid
